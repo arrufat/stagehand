@@ -3,6 +3,24 @@
 This changelog covers the public Stagehand TypeScript and Python SDKs. Entries before 4.0.0
 describe the TypeScript SDK.
 
+## TypeScript SDK 4.1.1
+
+### Patch Changes
+
+- [#2892](https://github.com/browserbase/stagehand/pull/2892) [`0210688`](https://github.com/browserbase/stagehand/commit/02106888668925aedbbf354f22b3ddaceb9c1027) Thanks [@miguelg719](https://github.com/miguelg719)! - Release a newly created Browserbase session when initial attachment fails, and support upload retries
+
+## Extension Runtime 1.0.3
+
+### Patch Changes
+
+- [#2896](https://github.com/browserbase/stagehand/pull/2896) [`7919934`](https://github.com/browserbase/stagehand/commit/7919934c24170482dcfab19b882b557c65d8eb61) Thanks [@miguelg719](https://github.com/miguelg719)! - Snapshot references remain valid across same-origin and out-of-process frame captures
+
+## Go SDK 4.1.1
+
+### Patch Changes
+
+- [#2896](https://github.com/browserbase/stagehand/pull/2896) [`7919934`](https://github.com/browserbase/stagehand/commit/7919934c24170482dcfab19b882b557c65d8eb61) Thanks [@miguelg719](https://github.com/miguelg719)! - Snapshot references remain valid across same-origin and out-of-process frame captures
+
 ## TypeScript SDK 4.1.0
 
 ### Minor Changes
